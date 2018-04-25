@@ -1,2 +1,3 @@
 # first-step
-first repository
+Hi people
+my name is omar
